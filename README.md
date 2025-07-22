@@ -84,8 +84,7 @@ Everything is **fully open-source** and built with privacy in mind.
 
 ###  AI-Powered Resume Assistant
 
-![AI Resume Assistant](public/SS%20Chat.png)
-
+![AI Resume Assistant](public/SS%20Chat.jpg)
 
 **90% More Effective Bullet Points**
 
@@ -128,7 +127,6 @@ Everything is **fully open-source** and built with privacy in mind.
 ###  AI Cover Letter Generator
 
 ![Cover Letter Generator](public/SS%20Cover%20Letter.png)
-
 
 **Save 30+ Minutes Per Application**
 
