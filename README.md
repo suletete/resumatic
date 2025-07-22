@@ -260,16 +260,6 @@ Then go to [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-##  Roadmap (2025)
-
-* [ ] Job Application Tracker
-* [ ] PDF + Word Export Customizer
-* [ ] LinkedIn Profile Sync
-* [ ] Interview Practice Generator
-* [ ] Mobile App Launch
-
----
-
 ##  Final Note
 
 **resuMatic** – Built with ❤️ to help you land your dream job.
